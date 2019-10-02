@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM debian:10.1-slim
 
 # install prerequisists
 RUN apt-get update \
